@@ -1,0 +1,2 @@
+Date                          Credit          Debit           Balance
+[2026-01-23][14:14:13]    1003                       1003
